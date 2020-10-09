@@ -1,2 +1,3 @@
 # CodeBucket
-A Bucket of code
+I love everyone who joins
+
