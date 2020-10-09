@@ -1,3 +1,2 @@
-# CodeBucket
-I love everyone who joins
-
+# codebucket
+A bucket of code
